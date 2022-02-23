@@ -3,3 +3,4 @@
 여러분
 환영합니다!!
 git add gitTest.txt 23123
+git commit -m "최초의 커밋"
